@@ -1,0 +1,60 @@
+name: miu
+description: "Miu"
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  #Network
+  http: ^1.1.0
+  http_parser: ^4.0.2
+  #Cache
+  shared_preferences: ^2.2.3
+  #Image
+  image_picker: ^1.0.7
+  #State Management
+  provider: ^6.1.2
+  #Security
+  flutter_dotenv: ^5.2.1
+  #Notification
+  onesignal_flutter: ^5.2.7
+  #Permission
+  permission_handler: ^11.3.1
+  #Connecitivity
+  connectivity_plus: ^6.0.3
+
+  
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-VariableFont_wdth,wght.ttf
+        - asset: assets/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf
+          style: italic
