@@ -49,8 +49,12 @@ Miu is a modern and feature-rich **social media platform** built with **Flutter*
 
 ## 🙏 And last but not least  
 
-🎉 Special thanks to the Flutter and Node.js communities for their extensive documentation and support.
-💡 Inspired by popular social media platforms for feature ideas.
-⭐ If you like this project, give it a star!
+🎉 Special thanks to the Flutter and Node.js communities for their extensive documentation and support.  
+
+💡 Inspired by popular social media platforms for feature ideas.  
+
+⭐ If you like this project, give it a star!  
+
 📩 Have questions? Open an issue or reach out!
+
 
