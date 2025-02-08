@@ -2,7 +2,7 @@
 
 Miu is a modern and feature-rich **social media platform** built with **Flutter** for the frontend, **Node.js** for the backend, and **MongoDB** as the database. It provides a **clean, modular codebase**, a **responsive design**, and **user-centric features** for an engaging social media experience.  
 
----
+
 
 ## ✨ Features  
 
@@ -17,7 +17,6 @@ Miu is a modern and feature-rich **social media platform** built with **Flutter*
 ✅ **Security** – Bcrypt.js for password hashing & JWT for authentication.  
 ✅ **Environment Management** – dotenv for secure environment variable handling.  
 
----
 
 ## 🛠 Tech Stack  
 
