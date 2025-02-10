@@ -23,7 +23,7 @@ dependencies:
   provider: ^6.1.2
   #Security
   flutter_dotenv: ^5.2.1
-  #Notification
+  #Notifications
   onesignal_flutter: ^5.2.7
   #Permission
   permission_handler: ^11.3.1
